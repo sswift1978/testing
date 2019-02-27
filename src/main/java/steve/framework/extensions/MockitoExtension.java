@@ -1,4 +1,4 @@
 package steve.framework.extensions;
 
-public class UserNameExtension {
+public class MockitoExtension {
 }
